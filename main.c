@@ -16,7 +16,7 @@ int main()
     printf("\n bitti \n");
 
     printf("\n son");
-
+    printf("ahmet naber panpa ya");
     printf("\n gitignore dan sonra derleme\n");
     return 0;
 }
