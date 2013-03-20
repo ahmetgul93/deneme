@@ -18,5 +18,6 @@ int main()
     printf("\n son");
 
     printf("\n gitignore dan sonra derleme\n");
+    printf("Kardeşim naber benim sahin ");
     return 0;
 }
