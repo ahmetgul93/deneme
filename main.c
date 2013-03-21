@@ -3,6 +3,14 @@
 
 int main()
 {
+    int secim;
     printf("Hello world!\n");
+
+
+    printf("tam bir deneme \n");
+
+    scanf("%d",&secim);
+
+    printf("%d\n",secim);
     return 0;
 }
