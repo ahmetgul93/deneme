@@ -14,5 +14,7 @@ int main()
     printf("%d\n",secim);
 
     printf("\n bitti \n");
+
+    printf("\n son");
     return 0;
 }
