@@ -12,5 +12,7 @@ int main()
     scanf("%d",&secim);
 
     printf("%d\n",secim);
+
+    printf("\n bitti \n");
     return 0;
 }
